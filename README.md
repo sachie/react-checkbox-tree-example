@@ -1,16 +1,41 @@
 <div  align="center">
-<h1>React Checklist Tree Example</h1>
+<h1>React Checkbox Tree Example</h1>
 </div>
 
 An example of a tree-style checkbox list, using a recursive component.
 
+## Features
+
+- Includes reusable components for checkbox, select/remove all components and checklist items.
+- The main page will show the expandable/collapsible checklist and a display of selected items.
+- Selecting/deselecting a parent will propogate to children as well.
+- Select/remove all controls will be shown above the checklist.
+- More information is included in code comments, in important files.
+
+
+## Screenshots
+**Initial View:**
+
+![image](https://user-images.githubusercontent.com/6166712/118623425-dd1d2280-b7e5-11eb-9666-2338a1655e47.png)
+
+**Items Selected:**
+
+![image](https://user-images.githubusercontent.com/6166712/118623483-ead2a800-b7e5-11eb-8199-3898298ed33f.png)
+
+## Possible Improvements
+
+- Fetching data using redux and an API.
+- Adding tests for components and functions.
+
 ## How to run
 
-1. Clone this repo and navigate into the folder.
+1. `git clone git@github.com:sachie/react-checkbox-tree-example.git`
 
-2. `yarn` or `npm i`
+2. `cd react-checkbox-tree-example`
 
-3. `yarn start` or `npm start`
+3. `yarn` or `npm i`
+
+4. `yarn start` or `npm start`
 
 ## Scripts
 
