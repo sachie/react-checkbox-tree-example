@@ -1,0 +1,16 @@
+.controls {
+  display: flex;
+}
+
+.button {
+  padding: 0;
+  background-color: white;
+  border: none;
+  margin-left: 0.9rem;
+}
+
+.icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  cursor: pointer;
+}

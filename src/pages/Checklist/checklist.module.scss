@@ -1,0 +1,29 @@
+.container {
+  padding-top: 3rem;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.checklist {
+  width: 24rem;
+}
+
+.display {
+  margin-left: 14rem;
+  width: 24rem;
+
+  code {
+    white-space: break-spaces;
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;
+  }
+}
