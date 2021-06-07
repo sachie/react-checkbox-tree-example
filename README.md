@@ -4,6 +4,8 @@
 
 An example of a tree-style checkbox list, using a recursive component.
 
+Live: https://sachie.github.io/react-checkbox-tree-example/
+
 ## Features
 
 - Includes reusable components for checkbox, select/remove all components and checklist items.
