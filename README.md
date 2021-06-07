@@ -12,8 +12,8 @@ An example of a tree-style checkbox list, using a recursive component.
 - Select/remove all controls will be shown above the checklist.
 - More information is included in code comments, in important files.
 
-
 ## Screenshots
+
 **Initial View:**
 
 ![image](https://user-images.githubusercontent.com/6166712/118623425-dd1d2280-b7e5-11eb-9666-2338a1655e47.png)

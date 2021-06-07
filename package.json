@@ -1,9 +1,12 @@
 {
   "name": "react-checkbox-tree-example",
+  "homepage": "https://sachie.github.io/react-checkbox-tree-example/",
   "version": "0.1.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "ultra build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "test:no-watch": "ultra test -- --watchAll=false",
     "test:coverage": "react-scripts test --coverage --watchAll=false",
@@ -67,6 +70,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^4.2.1",
     "eslint-plugin-unicorn": "^32.0.1",
+    "gh-pages": "^3.2.0",
     "husky": "^6.0.0",
     "istanbul": "^0.4.5",
     "node-sass": "^6.0.0",
