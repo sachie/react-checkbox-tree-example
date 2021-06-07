@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-checkbox-tree-example/static/css/main.d163dee9.chunk.css",
+    "main.js": "/react-checkbox-tree-example/static/js/main.25907400.chunk.js",
+    "main.js.map": "/react-checkbox-tree-example/static/js/main.25907400.chunk.js.map",
+    "runtime-main.js": "/react-checkbox-tree-example/static/js/runtime-main.042c6a60.js",
+    "runtime-main.js.map": "/react-checkbox-tree-example/static/js/runtime-main.042c6a60.js.map",
+    "static/js/2.bd0ff9e8.chunk.js": "/react-checkbox-tree-example/static/js/2.bd0ff9e8.chunk.js",
+    "static/js/2.bd0ff9e8.chunk.js.map": "/react-checkbox-tree-example/static/js/2.bd0ff9e8.chunk.js.map",
+    "index.html": "/react-checkbox-tree-example/index.html",
+    "static/css/main.d163dee9.chunk.css.map": "/react-checkbox-tree-example/static/css/main.d163dee9.chunk.css.map",
+    "static/js/2.bd0ff9e8.chunk.js.LICENSE.txt": "/react-checkbox-tree-example/static/js/2.bd0ff9e8.chunk.js.LICENSE.txt",
+    "static/media/remove-all.3a41f64a.svg": "/react-checkbox-tree-example/static/media/remove-all.3a41f64a.svg",
+    "static/media/select-all.060ce9cd.svg": "/react-checkbox-tree-example/static/media/select-all.060ce9cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.042c6a60.js",
+    "static/js/2.bd0ff9e8.chunk.js",
+    "static/css/main.d163dee9.chunk.css",
+    "static/js/main.25907400.chunk.js"
+  ]
+}
